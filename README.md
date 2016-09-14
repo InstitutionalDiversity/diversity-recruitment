@@ -1,7 +1,5 @@
 # Firms that are open to diversity candidates
 
-[UK](#UK)
+_If you know anyone who speaks on Diversity & Inclusion, please submit a pull request._
 
-
-## UK
 [MeVitae] (https://mevitae.com/) Data drivien recruitment platform.
