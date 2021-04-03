@@ -1,3 +1,4 @@
+
 # diversity-recruitment
 
 
@@ -23,3 +24,10 @@ https://twitter.com/ElissaBethhttps://twitter.com/ElissaBeth" Elissa Shevinksy E
 http://www.alynconsulting.com/http://www.alynconsulting.com/" Jody Alyn
 
 https://twitter.com/NativeWiredhttps://twitter.com/NativeWired" Gitte Klitgaard
+
+# Firms that are open to diversity candidates
+
+_If you know anyone who speaks on Diversity & Inclusion, please submit a pull request._
+
+[MeVitae] (https://mevitae.com/) Data drivien recruitment platform.
+
